@@ -1,2 +1,5 @@
 # Everything in subdirs
 /*/
+
+# Ignore the instruments.csv file
+/instruments.csv
