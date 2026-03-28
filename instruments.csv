@@ -1,0 +1,8 @@
+name,type,url,dest,branch,git_subdir
+VSCO-2-CE,git,https://github.com/sgossner/VSCO-2-CE/,Orchestral/VSCO-2-CE,master,
+SplendidGrandPiano,git,https://github.com/sfzinstruments/SplendidGrandPiano/,Percussion - Pitched/SplendidGrandPiano,master,
+Sonatina Symphonic Orchestra,git,https://github.com/peastman/sso/,Orchestral/Sonatina Symphonic Orchestra,master,
+VCSL,git,https://github.com/sgossner/VCSL/,Orchestral/VCSL,sfz,
+Virtual Playing Orchestra/Wave Files,archive,https://ia800907.us.archive.org/14/items/VirtualPlayingOrchestra31WaveFiles/Virtual-Playing-Orchestra3-1-wave-files.zip,Orchestral/Virtual Playing Orchestra,,
+Virtual Playing Orchestra/Standard,archive,https://virtualplaying.com/vp-downloads/Virtual-Playing-Orchestra3-2-4-standard-scripts.zip,Orchestral/Virtual Playing Orchestra,,
+Big Rusty Drums,archive,https://github.com/sfzinstruments/karoryfer.big-rusty-drums/releases/download/v1.100/Big_Rusty_Drums_1100.zip,Percussion - Unpitched,,
